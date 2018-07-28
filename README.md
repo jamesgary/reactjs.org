@@ -4,6 +4,8 @@ This repo contains the source code and documentation powering [reactjs.org](http
 
 ## Getting started
 
+It's so easy!
+
 ### Prerequisites
 
 1. Git
